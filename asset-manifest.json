@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/teste_digital_republic/static/css/main.b689d132.css",
+    "main.js": "/teste_digital_republic/static/js/main.66571d39.js",
+    "index.html": "/teste_digital_republic/index.html",
+    "main.b689d132.css.map": "/teste_digital_republic/static/css/main.b689d132.css.map",
+    "main.66571d39.js.map": "/teste_digital_republic/static/js/main.66571d39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b689d132.css",
+    "static/js/main.66571d39.js"
+  ]
+}
